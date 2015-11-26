@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-from __future__ import division
-
 import json
 import numpy as np
 import pandas as pd
